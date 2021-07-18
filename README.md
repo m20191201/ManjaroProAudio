@@ -70,19 +70,14 @@
     ![image](https://user-images.githubusercontent.com/79659262/124497122-51218300-ddb2-11eb-8cb8-4bf873e026cd.png)
 
 
-10) DAWs & Plugins
+10) DAW & Plugins
 
     REAPER: 
     http://reaper.fm/download.php or,  
     ```shell
     yay -S reaper-bin
     ```
-    change RT priority to 40 on audio device page?   
-    
-    Ardour:
-    ```shell
-    yay -S ardour
-    ```
+    change RT priority to 40 on audio device page?  
 
 * Native plugins  
   * x42-plugins  
