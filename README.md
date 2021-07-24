@@ -19,6 +19,11 @@
 4) add "threadirqs" as kernel parameter
     ```shell
     sudo nano /etc/default/grub
+    ```
+    change 
+    `GRUB_CMDLINE_LINUX=""` to `GRUB_CMDLINE_LINUX="threadirqs"`
+    
+    ```shell
     sudo update-grub
     ```
 
@@ -29,12 +34,17 @@
     sudo cpupower frequency-set -g performance
     ```
     ii. Permanent:
+    
+    Add `cpufreq.default_governor=performance` as a kernel parameter:
    
-    Add "cpufreq.default_governor=performance" as a kernel parameter
     ```shell
     sudo nano /etc/default/grub
+    ```
+    LIne should now read: 
+     `GRUB_CMDLINE_LINUX="cpufreq.default_governor=performance threadirqs"`
+     ```shell
     sudo update-grub
-    ``````
+    ```
     or, for kernels < 5.9:
     ```shell
     sudo nano etc/default/cpupower` (uncomment governor and change to performance)
