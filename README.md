@@ -91,6 +91,12 @@
     yay -S reaper-bin
     ```
     change RT priority to 40 on audio device page?  
+    
+    Ardour:
+    https://community.ardour.org/download or,
+    ```shell
+    yay -S ardour
+    ```
 
 * Native plugins  
   * x42-plugins  
