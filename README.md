@@ -142,7 +142,7 @@
     
     
    ### Thanks
-   Robbert van der Helm (of yabridge fame) for pointing out typos/omissions and suggesting alternative methods. JamesPeters (REAPER forums) for suggesting expansion of steps 3, 4 & 5.
+   Robbert van der Helm (of yabridge fame) for pointing out typos/omissions and suggesting alternative methods. JamesPeters (REAPER forums) for suggesting expansion of steps 3, 4 & 5. Damien Zammit (of zam-plugins fame) for suggestion to add Ardour and MikeLupe from Ardour IRC channel for discussion of other Linux DAWs.
 
 
 
