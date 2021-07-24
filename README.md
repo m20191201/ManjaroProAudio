@@ -104,7 +104,22 @@
 
 11) Wine-tkg + yabridge
 
-    i. Install wine-tkg from https://github.com/Frogging-Family/wine-tkg-git/releases/tag/6.4.r0.g7ec998e1  
+    i. Download wine-tkg from https://github.com/Frogging-Family/wine-tkg-git/releases/download/6.4.r0.g7ec998e1/wine-tkg-staging-fsync-git-6.4.r0.g7ec998e1-322-x86_64.pkg.tar.zst  
+    
+    In download location run:
+    
+    ```shell
+    yay -U wine-tkg-staging-fsync-git-6.4.r0.g7ec998e1-322-x86_64.pkg.tar.zst
+    ```
+    
+    or, for the more adventurous:
+        
+    ```shell
+    git clone https://github.com/Frogging-Family/wine-tkg-git.git
+    cd wine-tkg-git/wine-tkg-git/
+    makepkg -si
+    ```
+        
     ii. Install yabridge
     ```shell
     yay -S yabridge-bin
