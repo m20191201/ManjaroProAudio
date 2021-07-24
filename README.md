@@ -118,7 +118,7 @@
     
     
    ### Thanks
-   Robbert van der Helm (of yabridge fame) for pointing out typos/omissions and suggesting alternative methods.
+   Robbert van der Helm (of yabridge fame) for pointing out typos/omissions and suggesting alternative methods. JamesPeters (REAPER forums) for suggesting expanding steps 3, 4 & 5.
 
 
 
