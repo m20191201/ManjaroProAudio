@@ -97,6 +97,8 @@
     ```shell
     yay -S ardour
     ```
+    
+    Also be sure to check out Bitwig Studio, Tracktion Waveform, Qtractor, Zrythm etc...
 
 * Native plugins  
   * x42-plugins  
