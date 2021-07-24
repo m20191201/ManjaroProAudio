@@ -99,6 +99,7 @@
     ```
     
     Also be sure to check out Bitwig Studio, Tracktion Waveform, Qtractor, LMMS, Rosegarden, Zrythm, Mixbus etc...
+    https://en.wikipedia.org/wiki/List_of_Linux_audio_software#Digital_audio_workstations_(DAWs)
 
 * Native plugins  
   * x42-plugins  
@@ -142,7 +143,7 @@
     
     
    ### Thanks
-   Robbert van der Helm (of yabridge fame) for pointing out typos/omissions and suggesting alternative methods. JamesPeters (REAPER forums) for suggesting expansion of steps 3, 4 & 5. Damien Zammit (of zam-plugins fame) for suggestion to add Ardour and MikeLupe from Ardour IRC channel for discussion of other Linux DAWs.
+   Robbert van der Helm (of yabridge fame) for pointing out typos/omissions and suggesting alternative methods. JamesPeters (REAPER forums) for suggesting expansion of steps 3, 4 & 5. Damien Zammit (of zam-plugins fame) for suggestion to add Ardour and MikeLupe from Ardour IRC channel for discussion of, and link to, other Linux DAWs.
 
 
 
