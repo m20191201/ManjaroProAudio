@@ -13,8 +13,10 @@
     ```shell
     yay -S realtime-privileges
     ```
-    Add user to "realtime" group  
-    Add user to "audio" group (to satisfy realtimeconfigquickscan)
+    Add user to "realtime" group and "audio" group (to satisfy realtimeconfigquickscan)
+    ```shell
+    sudo usermod -a -G realtime,audio $USER
+    ```
 
 4) add "threadirqs" as kernel parameter
     ```shell
