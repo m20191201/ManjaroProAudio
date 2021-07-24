@@ -98,7 +98,7 @@
     yay -S ardour
     ```
     
-    Also be sure to check out Bitwig Studio, Tracktion Waveform, Qtractor, Zrythm etc...
+    Also be sure to check out Bitwig Studio, Tracktion Waveform, Qtractor, LMMS, Rosegarden, Zrythm, Mixbus etc...
 
 * Native plugins  
   * x42-plugins  
