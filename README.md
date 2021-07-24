@@ -17,6 +17,7 @@
     ```shell
     sudo usermod -a -G realtime,audio $USER
     ```
+    Log out/in or reboot...
 
 4) add "threadirqs" as kernel parameter
     ```shell
