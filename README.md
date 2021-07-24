@@ -100,6 +100,7 @@
   * DISTRHO  
   * DPF-plugins  
   * Dragonfly
+  * Bertom Denoiser (https://www.bertomaudio.com/denoiser.html)
 
 11) Wine-tkg + yabridge
 
