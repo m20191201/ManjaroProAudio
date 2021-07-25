@@ -92,13 +92,8 @@
     ```
     change RT priority to 40 on audio device page?  
     
-    Ardour:
-    https://community.ardour.org/download or,
-    ```shell
-    yay -S ardour
-    ```
     
-    Also be sure to check out Bitwig Studio, Tracktion Waveform, Qtractor, LMMS, Rosegarden, Zrythm, Mixbus etc...
+    Also be sure to check out Bitwig Studio, Tracktion Waveform, Ardour, Mixbus, Qtractor, LMMS, Rosegarden, Zrythm etc...
     https://en.wikipedia.org/wiki/List_of_Linux_audio_software#Digital_audio_workstations_(DAWs)
 
 * Native plugins  
