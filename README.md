@@ -133,6 +133,11 @@
     ```shell
     yay -S yabridge-bin
     ```
+    or for latest git:
+    ```shell
+    yay -S yabridge-git yabridgectl-git
+    ```
+    
     iii. Configure yabridge according to https://github.com/robbert-vdh/yabridge#readme  
     iv. append "export WINEFSYNC=1" to ~/.bash_profile  
     ```shell
