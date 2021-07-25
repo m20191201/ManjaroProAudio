@@ -96,7 +96,7 @@
     Also be sure to check out Bitwig Studio, Tracktion Waveform, Ardour, Mixbus, Qtractor, LMMS, Rosegarden, Zrythm etc...
     https://en.wikipedia.org/wiki/List_of_Linux_audio_software#Digital_audio_workstations_(DAWs)
 
-* Native plugins (yay -S [pkgname])
+* Native plugins (`yay -S [pkgname]`)
   * x42-plugins (https://x42-plugins.com/x42/)
   * airwindows-git (http://www.airwindows.com/)  
   * lsp-plugins  (https://lsp-plug.in/)
