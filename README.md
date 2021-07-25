@@ -96,15 +96,16 @@
     Also be sure to check out Bitwig Studio, Tracktion Waveform, Ardour, Mixbus, Qtractor, LMMS, Rosegarden, Zrythm etc...
     https://en.wikipedia.org/wiki/List_of_Linux_audio_software#Digital_audio_workstations_(DAWs)
 
-* Native plugins  
-  * x42-plugins  
-  * airwindows  
-  * LSP-plugins  
-  * zam-plugins  
-  * DISTRHO  
-  * DPF-plugins  
-  * Dragonfly
+* Native plugins (yay -S [pkgname])
+  * x42-plugins (https://x42-plugins.com/x42/)
+  * airwindows-git (http://www.airwindows.com/)  
+  * lsp-plugins  (https://lsp-plug.in/)
+  * zam-plugins  (http://www.zamaudio.com/?p=976)
+  * distrho-ports (https://distrho.sourceforge.io/ports.php)
+  * dpf-plugins (https://distrho.sourceforge.io/plugins.php)
+  * dragonfly-reverb (https://michaelwillis.github.io/dragonfly-reverb/)
   * Bertom Denoiser (https://www.bertomaudio.com/denoiser.html)
+  * sfizz / sfizz-git (https://sfz.tools/sfizz/)
 
 11) Wine-tkg + yabridge
 
