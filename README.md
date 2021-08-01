@@ -124,7 +124,8 @@ Following this guide will hopefully allow you to get the best possible performan
     or follow the instructions to git clone and install latest version:
     https://github.com/Frogging-Family/wine-tkg-git/tree/master/wine-tkg-git#quick-how-to-
         
-    ii. Install yabridge
+12) Install yabridge
+
     ```shell
     yay -S yabridge-bin
     ```
