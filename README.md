@@ -107,23 +107,20 @@
   * Bertom Denoiser (https://www.bertomaudio.com/denoiser.html)
   * sfizz / sfizz-git (https://sfz.tools/sfizz/)
 
-11) Wine-tkg + yabridge
+11) Wine-staging or Wine-tkg
 
-    i. Download wine-tkg from https://github.com/Frogging-Family/wine-tkg-git/releases/download/6.4.r0.g7ec998e1/wine-tkg-staging-fsync-git-6.4.r0.g7ec998e1-322-x86_64.pkg.tar.zst  
-    
-    In download location run:
+    Install wine-staging:
     
     ```shell
-    yay -U wine-tkg-staging-fsync-git-6.4.r0.g7ec998e1-322-x86_64.pkg.tar.zst
+    yay -S wine-staging
     ```
     
-    or, for the more adventurous:
-        
-    ```shell
-    git clone https://github.com/Frogging-Family/wine-tkg-git.git
-    cd wine-tkg-git/wine-tkg-git/
-    makepkg -si
-    ```
+    OR...for the more adventurous:
+    
+    either download wine-tkg from https://github.com/Frogging-Family/wine-tkg-git/releases (Try v6.4 if you have any issues with latest)
+    
+    or follow the instructions to git clone and install latest version:
+    https://github.com/Frogging-Family/wine-tkg-git/tree/master/wine-tkg-git#quick-how-to-
         
     ii. Install yabridge
     ```shell
