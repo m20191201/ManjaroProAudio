@@ -1,5 +1,7 @@
 # Pro Audio in Manjaro
 
+Following this guide will hopefully allow you to get the best possible performance on Linux for professional audio needs. Even though these steps are well-tested, it is wise to research what each step accomplishes and why (the search engine is your friend :P ).
+
 1) Install Manjaro KDE
 
 2) realtimeconfigquickscan
