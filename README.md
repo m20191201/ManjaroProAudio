@@ -8,7 +8,7 @@ Following this guide will hopefully allow you to get the best possible performan
     ```shell
     git clone https://github.com/raboof/realtimeconfigquickscan.git
     cd realtimeconfigquickscan
-    ./realtimeconfigquickscan
+    ./realtimeconfigquickscan.pl
     ```
 
 3) install realtime-privileges
