@@ -141,7 +141,7 @@ Following this guide will hopefully allow you to get the best possible performan
     iii. Configure yabridge according to https://github.com/robbert-vdh/yabridge#readme  
     iv. if using wine-tkg, append "export WINEFSYNC=1" to ~/.bash_profile  
     ```shell
-    nano ¬/.bash_profile
+    nano ~/.bash_profile
     . ~/.bash_profile
     ```
     v. Install Windows VST2 and VST3 (preferred) plugins
