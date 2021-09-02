@@ -144,6 +144,9 @@ Following this guide will hopefully allow you to get the best possible performan
     nano ~/.bash_profile
     . ~/.bash_profile
     ```
+    
+    Or, if your shell is not bash, use the guide here: https://github.com/robbert-vdh/yabridge#environment-configuration
+    
     v. Install Windows VST2 and VST3 (preferred) plugins
     
     
