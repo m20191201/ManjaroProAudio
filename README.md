@@ -111,18 +111,22 @@ Following this guide will hopefully allow you to get the best possible performan
 
 11) Wine-staging or Wine-tkg
 
-    Install wine-staging:
+    Install wine-staging v6.14:
     
     ```shell
-    yay -S wine-staging
+    yay -S downgrade
+    sudo DOWNGRADE_FROM_ALA=1 downgrade wine-staging
     ```
+    note that v6.14 is the last known working version of wine-staging that doesn't break yabridge so choose 6.14 from the resulting list and accept addition to IgnorePkg to avoid accidental upgrading.
     
     OR...for the more adventurous:
     
-    either download wine-tkg from https://github.com/Frogging-Family/wine-tkg-git/releases (Try v6.4 if you have any issues with latest)
+    either download wine-tkg from https://github.com/Frogging-Family/wine-tkg-git/releases
     
     or follow the instructions to git clone and install latest version:
     https://github.com/Frogging-Family/wine-tkg-git/tree/master/wine-tkg-git#quick-how-to-
+    
+    Be aware that recent versions break yabridge so try v6.4 if you are having issues.
         
 12) Install yabridge
 
